@@ -17,7 +17,7 @@ body{
     grid-column-start: 2;
     grid-column-end: 3;
     width: 400px;
-    padding-left: 8%;
+    padding-left: 6%;
 }
 
 .illustration-hero{
@@ -156,6 +156,7 @@ body{
     }
     
     .attribution{
+        padding-left: 0;
         width: 365px;
     }
 }
