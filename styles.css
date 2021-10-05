@@ -154,4 +154,8 @@ body{
     .btn-payment{
         width: 300px;
     }
+    
+    .attribution{
+        grid-column-start: 0; 
+    }
 }
